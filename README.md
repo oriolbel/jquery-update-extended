@@ -1,2 +1,2 @@
 # jquery-update-extended
-Custom module to extend the jquery_update module options
+Custom Drupal 7 module to extend the jquery_update module options
