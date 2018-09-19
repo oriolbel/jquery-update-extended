@@ -1,0 +1,7 @@
+name = jQuery update extension
+description = Custom module to extend the jquery_update module options
+package = User interface
+core = 7.x
+version = "7.x-1.0"
+dependencies[] = jquery_update
+
